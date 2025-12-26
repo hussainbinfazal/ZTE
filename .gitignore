@@ -1,0 +1,44 @@
+# Firmware Files
+*.bin
+*.img
+*.rom
+*.flash
+
+# Backup Files
+*.bak
+*.backup
+*.orig
+
+# Log Files
+*.log
+*.txt
+
+# Temporary Files
+*.tmp
+*.temp
+~*
+
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archive Files
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Configuration Files (may contain sensitive data)
+config/
+*.conf
+*.cfg
+
+# Documentation Build
+docs/_build/
